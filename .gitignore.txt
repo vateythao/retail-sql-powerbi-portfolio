@@ -1,0 +1,16 @@
+# Data files - do not upload private/raw data
+*.csv
+*.xlsx
+*.xls
+
+# Power BI files may contain imported private data
+*.pbix
+
+# Screenshots may reveal private business data
+*.png
+*.jpg
+*.jpeg
+
+# Temporary files
+~$*
+*.tmp

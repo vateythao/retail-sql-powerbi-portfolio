@@ -1,0 +1,5 @@
+Raw business data, cleaned data files, Power BI files, and screenshots are not included in this public version because they may contain private business information.
+
+This project is intended to demonstrate the SQL Server and Power BI workflow, including data import, staging tables, data-quality checks, clean tables, SQL views, and dashboard design.
+
+A future public version can use anonymized or synthetic sample data.
